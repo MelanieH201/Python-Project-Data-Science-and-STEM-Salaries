@@ -1,1 +1,1 @@
-# Python-Project-Data-Science-and-STEM-Salaries
+# Python Project: Data Science and STEM Salaries
