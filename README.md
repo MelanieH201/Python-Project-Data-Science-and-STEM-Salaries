@@ -18,3 +18,6 @@
 ##### 6. Is there a correlation between location and salary?
 ##### 7. Where are most of the tech jobs located?
 ##### 8. Do men or women earn higher salaries?
+
+##### Link to full Tableau presentation:
+##### https://public.tableau.com/app/profile/melanie4177/viz/DataScienceandSTEMSalariesCFFinalProject/STEMSalStory?publish=yes
